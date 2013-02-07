@@ -17,4 +17,8 @@
 - (void) cleanOperand;
 - (double) changeSign;
 
+
+
+
+
 @end
