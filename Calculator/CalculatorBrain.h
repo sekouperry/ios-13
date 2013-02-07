@@ -16,9 +16,4 @@
 - (double) performOperation:(NSString *)operation;
 - (void) cleanOperand;
 - (double) changeSign;
-
-
-
-
-
 @end
